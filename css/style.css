@@ -337,3 +337,75 @@ h6 {
   text-transform: uppercase;
 }
 
+/* section-2 */
+
+.services {
+  height: 650px;
+}
+
+.sp1 {
+  font-size: 24px;
+  font-family: 'Kaushan Script', cursive;
+  padding-top: 90px;
+  text-align: center;
+}
+
+.sp2 {
+  font-size: 30px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.sp2::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  margin: 60px auto;
+  background-color: #f38181;
+}
+
+.items-f {
+  display: flex;
+  background-color: #aaa;
+  height: 320px;
+  width: 1200px;
+}
+
+.items-ff {
+  display: flex;
+  background-color: #aaa;
+  height: 320px;
+  width: 1200px;
+}
+
+.item-1 {
+  height: 100px;
+  width: 400px;
+}
+
+.item-2 {
+  height: 100px;
+  width: 400px;
+}
+
+.item-3 {
+  height: 100px;
+  width: 400px;
+}
+
+.item-4 {
+  height: 100px;
+  width: 400px;
+}
+
+.item-5 {
+  height: 100px;
+  width: 400px;
+}
+
+.item-6 {
+  height: 100px;
+  width: 400px;
+}
